@@ -1,2 +1,3 @@
 # -Back-end-PawCenter
- Back end for PawCenter mobile application
+ Back end for PawCenter Mobile application
+ Developed using NodeJs and typescript
